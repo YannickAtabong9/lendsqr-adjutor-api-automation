@@ -4,7 +4,7 @@
 This repository contains a defensive automated test suite for the Lendsqr Adjutor API. It covers **Validation, Credit Bureaus, Direct Debit, and Decisioning** modules.
 
 ## 🛠 Setup Instructions
-1. **Clone the repo:** `git clone <your-repo-link>`
+1. **Clone the repo:** `https://github.com/YannickAtabong9/lendsqr-adjutor-api-automation`
 2. **Import into Postman:** Import the files located in the `/postman` folder.
 3. **Configure API Key:** In Postman, set the `api_key` variable to your personal Adjutor key.
 
